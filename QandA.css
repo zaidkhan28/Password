@@ -1,0 +1,42 @@
+body{
+    background-color: rgb(5, 5, 126);
+}
+
+
+
+.main{
+    margin: 12%;
+    background-color: aliceblue; 
+    width: 70%;
+    padding: 20px 20px;
+
+}
+
+.randam{
+ font-size: 26px;
+ gap: 20px;
+color: #151212;
+
+}
+
+button{
+    padding: 5px 20px;
+    background-color: #fff;
+    color: #000;
+    margin-top: 20px;
+}
+
+.input{
+    gap: 10px;
+
+
+    input{
+        padding: 5px 10px ;
+    }
+
+    button{
+        padding: 5px 20px;
+        background-color: #fff;
+        color: #000;
+    }
+}
